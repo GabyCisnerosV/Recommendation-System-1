@@ -4,7 +4,7 @@ Created on Thu Dec 30 12:38:46 2021
 
 @author: gaby
 """
-        
+####
 text=["London Paris London","Paris Paris London"]
 #Representation of text as vectors
 from sklearn.feature_extraction.text import CountVectorizer
