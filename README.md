@@ -1,2 +1,5 @@
 # Recommendation-System-1
-This is a recoomendation system for movies from Code Heroku
+This will be a recoomendation system for movies...
+
+Help from:
+Code Heroku
